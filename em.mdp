@@ -1,0 +1,13 @@
+;mdp for energy minimization
+; This is only tentative. Add/change flags as required
+integrator      = steep
+nsteps          = 5000
+nstlist         = 10
+rlist           = 1.4
+coulombtype     = cut-off
+rcoulomb        = 0.5
+vdw-type        = cut-off
+rvdw            = 0.5
+nstenergy       = 10
+emtol		= 10
+emstep		= 1

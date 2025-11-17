@@ -1,0 +1,9 @@
+receptor = protein.pdbqt
+
+center_x = 28.6
+center_y = 30.2
+center_z = 22.5
+
+size_x = 25
+size_y = 25
+size_z = 25
